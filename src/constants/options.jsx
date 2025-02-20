@@ -3,7 +3,7 @@ export const SelectTravelsList = [
         id: 1,
         title: "Seul",
         desc: "Un voyageur solitaire en exploration",
-        icon: "👨",
+        icon: "😢",
         people: "1 Personne"
     },
     {
@@ -18,13 +18,13 @@ export const SelectTravelsList = [
         title: "Famille",
         desc: "Un groupe d'amateurs d'aventure",
         icon: "👨‍👩‍👦",
-        people: "3 à 5 Personnes"
+        people: "3 à 6 Personnes"
     },
     {
         id: 4,
         title: "Amis",
         desc: "Un groupe de chercheurs de sensations fortes",
-        icon: "👥",
+        icon: "😎",
         people: "5 à 10 Personnes"
     }
 ]
